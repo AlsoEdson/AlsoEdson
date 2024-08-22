@@ -1,15 +1,14 @@
 ## Hi there 👋
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy EDSON</h1>
-<h3 align="center">Apasionado por la creación de software y siempre al tanto de las nuevas tecnologías y actualizaciones. Me dedico a desarrollar soluciones innovadoras que aprovechan las últimas tendencias tecnológicas para resolver problemas de manera eficiente. Mi objetivo es construir aplicaciones robustas y mantenerme en la vanguardia de la evolución tecnológica.</h3>
+<h1 align="center">I'am Edson Gutierrez</h1>
+<h3 align="center">Passionate about software development and staying up to date with the latest technologies. I strive to create robust and efficient applications, always leveraging the most innovative trends in the industry.</h3>
+<br>
+🔭 CURRENTLY WORKING ON PERSONAL PROJECTS 🪤
 
+🌱 STUDYING: SOFTWARE ENGINEERING
 
-- 🔭 ACTUALMENTE TRABAJO EN PROYECTOS PROPIOS 🪤
-
-- 🌱 ESTOY ESTUDIANDO: INGENIERÍA DE SOFTWARE 
-
-- 📫 PUEDES CONTACTARME EN **edsongutierrez4@hotmail.com**
+📫 YOU CAN CONTACT ME AT edsongutierrez4@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
