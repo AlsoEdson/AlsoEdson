@@ -5,14 +5,14 @@
 <h3 align="center">Passionate about software development and staying up to date with the latest technologies. I strive to create robust and efficient applications, always leveraging the most innovative trends in the industry.</h3>
 <br>
 
-🔭 I’m currently working on personal projects to sharpen my skills and explore new technologies.
-🌱 I’m currently learning Java, Spring Boot, and frontend development with React.
-📒 I'm studying **Software engineer** in National University of San Marcos.
-👯 I’m looking to collaborate on open-source projects or team-based learning experiences.
-🤔 I’m looking for help with building full-stack applications and improving my algorithmic skills.
-💬 Ask me about software development, tech trends, and my journey as a developer.
-📫 How to reach me: edsongutierrez4@hotmail.com
-⚡ Fun fact: I love solving coding challenges and am a big fan of strategy games.
+🔭 I’m currently working on personal projects to sharpen my skills and explore new technologies.<br>
+🌱 I’m currently learning Java, Spring Boot, and frontend development with React.<br>
+📒 I'm studying **Software engineer** in National University of San Marcos.<br>
+👯 I’m looking to collaborate on open-source projects or team-based learning experiences.<br>
+🤔 I’m looking for help with building full-stack applications and improving my algorithmic skills.<br>
+💬 Ask me about software development, tech trends, and my journey as a developer.<br>
+📫 How to reach me: edsongutierrez4@hotmail.com<br>
+⚡ Fun fact: I love solving coding challenges and am a big fan of strategy games.<br>
 
 
 <h3 align="left">Connect with me:</h3>
