@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU EDSON</h1>
+<h1 align="center">Hola 👋, Soy EDSON</h1>
 <h3 align="center">Apasionado por la creación de software y siempre al tanto de las nuevas tecnologías y actualizaciones. Me dedico a desarrollar soluciones innovadoras que aprovechan las últimas tendencias tecnológicas para resolver problemas de manera eficiente. Mi objetivo es construir aplicaciones robustas y mantenerme en la vanguardia de la evolución tecnológica.</h3>
 
 
